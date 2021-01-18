@@ -1,4 +1,4 @@
-![Boilerplate Next/ReactJS](https://raw.githubusercontent.com/Artrogeno/boilerplate-next-reactjs/main/public/img/logo.svg)
+![Boilerplate Next/ReactJS](https://raw.githubusercontent.com/Artrogeno/boilerplate-next-reactjs/main/public/img/logo-github.svg)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ### What is inside?
